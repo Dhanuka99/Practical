@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    static int x = 10;
-    int y = 10;
-    x=x+1;
-    y=y+1;
-    printf("%d \n",x);
-    printf("%d",y);
+    for (int i = 0; i < 10; ++i) {
+        for (int j = 0; j < 5; ++j) {
+            printf("%d \n",i," ",j);
+        }
+    }
     return 0;
 }
