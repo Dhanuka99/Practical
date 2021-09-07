@@ -1,7 +1,7 @@
 //
 // Created by DHANUKA on 9/7/2021.
 //
-
+/*
 #include <stdio.h>
 
 int addNumber(int,int);
@@ -18,7 +18,7 @@ int addNumber(int x,int y){
     y=2000;
     return x+y;
 }
-
+*/
 /*10 20
 3000
 10 20*/

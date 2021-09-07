@@ -3,4 +3,4 @@ project(Practical)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Practical C/main.cpp C/Test1.cpp)
+add_executable(Practical C/main.cpp C/Test1.cpp C/Test2.cpp)
