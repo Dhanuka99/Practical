@@ -3,7 +3,7 @@
 //Call by reference
 //
 #include <stdio.h>
-
+/*
 int addNumber(int*,int*);
 int main(){
     int a=10,b=20;
@@ -18,3 +18,4 @@ int addNumber(int *x,int *y){
     *y=2000;
     return *x+*y;
 }
+*/
